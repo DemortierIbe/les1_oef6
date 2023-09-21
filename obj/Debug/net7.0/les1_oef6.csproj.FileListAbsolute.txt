@@ -1,0 +1,14 @@
+C:\Users\ibe-5\eersteles\les1_oef6\bin\Debug\net7.0\les1_oef6.exe
+C:\Users\ibe-5\eersteles\les1_oef6\bin\Debug\net7.0\les1_oef6.deps.json
+C:\Users\ibe-5\eersteles\les1_oef6\bin\Debug\net7.0\les1_oef6.runtimeconfig.json
+C:\Users\ibe-5\eersteles\les1_oef6\bin\Debug\net7.0\les1_oef6.dll
+C:\Users\ibe-5\eersteles\les1_oef6\bin\Debug\net7.0\les1_oef6.pdb
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.AssemblyInfoInputs.cache
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.AssemblyInfo.cs
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.csproj.CoreCompileInputs.cache
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.dll
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\refint\les1_oef6.dll
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.pdb
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\les1_oef6.genruntimeconfig.cache
+C:\Users\ibe-5\eersteles\les1_oef6\obj\Debug\net7.0\ref\les1_oef6.dll
